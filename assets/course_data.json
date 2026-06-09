@@ -1,0 +1,93 @@
+{
+  "content_version": 1,
+  "courses": [
+    {
+      "title": "Telugu to English - Beginners",
+      "source_language": "te",
+      "target_language": "en",
+      "total_lessons": 8,
+      "lessons": [
+        {
+          "unit_number": 1,
+          "lesson_order": 1,
+          "title": "Basic Greetings",
+          "source_language": "te",
+          "cefr_level": "A1",
+          "unit_theme": "greetings",
+          "challenges": [
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "నమస్కారం", "expected_answer": "Hello", "audio_flag": true, "options": ["Hello", "Goodbye", "Thank you", "Please", "Sorry", "Yes"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "ధన్యవాదాలు", "expected_answer": "Thank you", "audio_flag": true, "options": ["Thank you", "Hello", "Sorry", "Please", "No", "Yes"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "శుభోదయం", "expected_answer": "Good morning", "audio_flag": false, "options": ["Good morning", "Good night", "Good evening", "Goodbye", "Hello", "Welcome"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Goodbye", "expected_answer": "Goodbye", "audio_flag": true, "options": ["Goodbye", "Hello", "Sorry", "Please", "Thank you", "Yes"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "మీరు ఎలా ఉన్నారు?", "expected_answer": "How are you?", "audio_flag": false, "options": ["How are you?", "Who are you?", "What is this?", "Where are you?", "Hello", "Goodbye"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "నేను బాగున్నాను", "expected_answer": "I am fine", "audio_flag": false, "options": ["I am fine", "I am sad", "I am hungry", "I am happy", "Thank you", "Hello"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Please", "expected_answer": "Please", "audio_flag": true, "options": ["Please", "Sorry", "Yes", "No", "Hello", "Thank you"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "సరే", "expected_answer": "Okay", "audio_flag": true, "options": ["Okay", "No", "Yes", "Sorry", "Please", "Hello"] }
+          ]
+        },
+        {
+          "unit_number": 1,
+          "lesson_order": 2,
+          "title": "Numbers 1-10",
+          "source_language": "te",
+          "cefr_level": "A1",
+          "unit_theme": "numbers",
+          "challenges": [
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "ఒకటి", "expected_answer": "One", "audio_flag": true, "options": ["One", "Two", "Three", "Four", "Five", "Six"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "రెండు", "expected_answer": "Two", "audio_flag": true, "options": ["Two", "One", "Three", "Four", "Five", "Seven"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "మూడు", "expected_answer": "Three", "audio_flag": true, "options": ["Three", "Two", "One", "Four", "Eight", "Six"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "నాలుగు", "expected_answer": "Four", "audio_flag": true, "options": ["Four", "Five", "Three", "Two", "Nine", "Six"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "అయిదు", "expected_answer": "Five", "audio_flag": true, "options": ["Five", "Four", "Six", "Three", "Ten", "One"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Six", "expected_answer": "Six", "audio_flag": true, "options": ["Six", "Seven", "Five", "Four", "Eight", "Nine"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Ten", "expected_answer": "Ten", "audio_flag": true, "options": ["Ten", "Nine", "Eight", "Seven", "Six", "Five"] },
+            { "type": "translate_to_target", "prompt_language": "te", "prompt_text": "పది", "expected_answer": "Ten", "audio_flag": true, "options": ["Ten", "Nine", "Eight", "Seven", "Six", "Five"] }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hindi to English - Beginners",
+      "source_language": "hi",
+      "target_language": "en",
+      "total_lessons": 8,
+      "lessons": [
+        {
+          "unit_number": 1,
+          "lesson_order": 1,
+          "title": "Basic Greetings",
+          "source_language": "hi",
+          "cefr_level": "A1",
+          "unit_theme": "greetings",
+          "challenges": [
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "नमस्ते", "expected_answer": "Hello", "audio_flag": true, "options": ["Hello", "Goodbye", "Thank you", "Please", "Sorry", "Yes"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "धन्यवाद", "expected_answer": "Thank you", "audio_flag": true, "options": ["Thank you", "Hello", "Sorry", "Please", "No", "Yes"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "सुप्रभात", "expected_answer": "Good morning", "audio_flag": false, "options": ["Good morning", "Good night", "Good evening", "Goodbye", "Hello", "Welcome"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Goodbye", "expected_answer": "Goodbye", "audio_flag": true, "options": ["Goodbye", "Hello", "Sorry", "Please", "Thank you", "Yes"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "आप कैसे हैं?", "expected_answer": "How are you?", "audio_flag": false, "options": ["How are you?", "Who are you?", "What is this?", "Where are you?", "Hello", "Goodbye"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "मैं ठीक हूँ", "expected_answer": "I am fine", "audio_flag": false, "options": ["I am fine", "I am sad", "I am hungry", "I am happy", "Thank you", "Hello"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Please", "expected_answer": "Please", "audio_flag": true, "options": ["Please", "Sorry", "Yes", "No", "Hello", "Thank you"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "ठीक है", "expected_answer": "Okay", "audio_flag": true, "options": ["Okay", "No", "Yes", "Sorry", "Please", "Hello"] }
+          ]
+        },
+        {
+          "unit_number": 1,
+          "lesson_order": 2,
+          "title": "Numbers 1-10",
+          "source_language": "hi",
+          "cefr_level": "A1",
+          "unit_theme": "numbers",
+          "challenges": [
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "एक", "expected_answer": "One", "audio_flag": true, "options": ["One", "Two", "Three", "Four", "Five", "Six"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "दो", "expected_answer": "Two", "audio_flag": true, "options": ["Two", "One", "Three", "Four", "Five", "Seven"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "तीन", "expected_answer": "Three", "audio_flag": true, "options": ["Three", "Two", "One", "Four", "Eight", "Six"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "चार", "expected_answer": "Four", "audio_flag": true, "options": ["Four", "Five", "Three", "Two", "Nine", "Six"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "पाँच", "expected_answer": "Five", "audio_flag": true, "options": ["Five", "Four", "Six", "Three", "Ten", "One"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Six", "expected_answer": "Six", "audio_flag": true, "options": ["Six", "Seven", "Five", "Four", "Eight", "Nine"] },
+            { "type": "listen", "prompt_language": "en", "prompt_text": "Ten", "expected_answer": "Ten", "audio_flag": true, "options": ["Ten", "Nine", "Eight", "Seven", "Six", "Five"] },
+            { "type": "translate_to_target", "prompt_language": "hi", "prompt_text": "दस", "expected_answer": "Ten", "audio_flag": true, "options": ["Ten", "Nine", "Eight", "Seven", "Six", "Five"] }
+          ]
+        }
+      ]
+    }
+  ]
+}
